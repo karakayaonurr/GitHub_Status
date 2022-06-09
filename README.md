@@ -17,7 +17,7 @@
 
   
   - 🔭 I’m currently working on Turkcell as Software Developer
-  - 😄 Pronouns: <embed width='400'  height='180' src='https://embed.howtopronounce.com/classic/en/turkish/onur-1/25083254'>
+  - 😄 Pronouns: https://www.howtopronounce.com/turkish/onur-1/25083254
   
 <!--
 **karakayaonurr/karakayaonurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
